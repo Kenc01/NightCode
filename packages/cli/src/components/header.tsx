@@ -7,7 +7,7 @@ export function Header() {
         gap={0.5}
         alignItems="center"
       >
-        <ascii-font font="tiny" text="Night" color="gray" />
+        <ascii-font font="tiny" text="Keith" color="gray" />
         <ascii-font font="tiny" text="Code" />
       </box>
     </box>
