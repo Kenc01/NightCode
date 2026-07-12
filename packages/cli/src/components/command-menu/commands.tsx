@@ -16,7 +16,7 @@ export const COMMANDS: Command[] = [
     value: "/agents",
     action: (ctx) => {
       ctx.dialog.open({
-        title: "Select Mode",
+        title: "Select Agent",
         children: <text>Agent selection coming soon...</text>,
       });
     },
